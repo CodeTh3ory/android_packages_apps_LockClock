@@ -136,14 +136,14 @@
     <string name="weather_show_location_title">Show location</string>
     <string name="weather_show_timestamp_title">Show timestamp</string>
     <string name="weather_refresh_interval">Update interval</string>
-    <string name="weather_use_metric">Use metric</string>
+    <string name="weather_use_metric">Use Celsius</string>
     <string name="weather_retrieve_location_dialog_title">Cannot retrieve location!</string>
     <string name="weather_retrieve_location_dialog_message">Network geolocation is disabled.\n\nSet a custom location or enable network location</string>
     <string name="weather_retrieve_location_dialog_enable_button">Enable</string>
     <string name="weather_invert_lowhigh">Invert low/high temperatures</string>
     <string name="weather_progress_title">Verifying location</string>
-    <string name="weather_alternate_icons_title">Use color icons</string>
-    <string name="weather_alternate_icons_summary">Select to toggle between the default (Color) and the alternate (White) icons</string>
+    <string name="weather_alternate_icons_title">Switch To Plain Color</string>
+    <string name="weather_alternate_icons_summary">Select to toggle between the default (Sexy) and the alternate (Plain Color) icons</string>
     <string name="weather_show_when_minimized_title">Show when minimized</string>
     <string name="weather_show_when_minimized_summary">Display summary weather information when the widget is minimized</string>
 
